@@ -10,9 +10,7 @@
 - Bug Reporting
 
 🤖 Currently Learning:
-- Cypress Automation
-- Laravel
-- Fullstack Development
+- Database Testing
 
 ## Tools
 
