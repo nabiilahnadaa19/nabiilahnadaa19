@@ -24,11 +24,10 @@ Detail-oriented Software Quality Assurance Engineer with experience in Manual Te
 
 ## Tools
 
-- Cypress
-- Selenium
-- Postman
-- GitHub
-- Figma
+![Cypress](https://img.shields.io/badge/Cypress-Testing-brightgreen)
+![Postman](https://img.shields.io/badge/Postman-API-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Issues-black)
+![Figma](https://img.shields.io/badge/Figma-Design-purple)
 
 ## 💡 Fun Fact
 
