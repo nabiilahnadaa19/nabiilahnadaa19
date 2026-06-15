@@ -1,5 +1,7 @@
 # Hi 👋 I'm Nabiilah Nada Iswari
-
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250">
+</p>
 ## Software Quality Assurance Engineer
 Detail-oriented Software Quality Assurance Engineer with experience in Manual Testing, User Acceptance Testing (UAT), Regression Testing, and Test Automation. Passionate about improving software quality through structured testing, database validation, and AI-assisted QA practices.
 
@@ -61,3 +63,6 @@ www.linkedin.com/in/nabiilahnadaa
 
 Email:
 nabiilahnadaa19@gmail.com
+
+
+![](https://komarev.com/ghpvc/?username=nabiilahnadaa19&color=blueviolet)
