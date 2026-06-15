@@ -19,8 +19,11 @@ Detail-oriented Software Quality Assurance Engineer with experience in Manual Te
 
 ✔ Requirement Validation
 
-🤖 Currently Learning:
+## 🤖 Currently Learning:
 - Database Testing
+- AI-Assisted Quality Assurance
+- Cypress Automation Best Practice
+- SQL Validation
 
 ## Tools
 
