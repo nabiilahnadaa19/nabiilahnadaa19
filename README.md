@@ -2,6 +2,7 @@
 
 ## Software Quality Assurance Engineer
 Detail-oriented Software Quality Assurance Engineer with experience in Manual Testing, UAT, Regression Testing, and Test Automation. Passionate about improving software quality through structured testing, database validation, and AI-assisted QA practices.
+
 <p align="center">
   <img src="assets/ladybug.gif" width="250">
 </p>
