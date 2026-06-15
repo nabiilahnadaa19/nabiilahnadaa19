@@ -1,7 +1,7 @@
 # Hi 👋 I'm Nabiilah Nada Iswari
 
 ## Software Quality Assurance Engineer
-Detail-oriented Software Quality Assurance Engineer with experience in Manual Testing, UAT, Regression Testing, and Test Automation. Passionate about improving software quality through structured testing, database validation, and AI-assisted QA practices.
+Detail-oriented Software Quality Assurance Engineer with experience in Manual Testing, User Acceptance Testing (UAT), Regression Testing, and Test Automation. Passionate about improving software quality through structured testing, database validation, and AI-assisted QA practices.
 
 ## 🔬 QA Expertise
 
@@ -32,25 +32,29 @@ Detail-oriented Software Quality Assurance Engineer with experience in Manual Te
 ![GitHub](https://img.shields.io/badge/GitHub-Issues-black)
 ![Figma](https://img.shields.io/badge/Figma-Design-purple)
 
-## 💡 Fun Fact
+## 🐞 Professional Experience
 
-I enjoy finding bugs before users do.
+✔ Tested multiple enterprise systems across different business domains
 
-I believe good software quality starts with good testing.
+✔ Performed Functional, Regression, and UAT Testing
 
-My QA background combined with UI/UX experience helps me identify both functional and usability issues.
+✔ Created Test Cases and Test Scenarios based on business requirements
 
-## 📊 GitHub Stats
+✔ Filed detailed Bug Reports and Change Requests
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabiilahnadaa19&show_icons=true&theme=dark)
+✔ Developed Cypress Automation Tests
+
+✔ Collaborated with Developers for Root Cause Analysis and Fix Validation
 
 ## 🐞 Bug Hunter Activity
+
+Most of my QA activities, bug reports, issue tracking, and validation work are performed within private enterprise projects and therefore may not be fully reflected in public GitHub statistics.
 
 <p align="center">
   <img src="https://github.com/nabiilahnadaa19/nabiilahnadaa19/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-## Connect With Me
+## 📫 Connect With Me
 
 LinkedIn:
 www.linkedin.com/in/nabiilahnadaa
