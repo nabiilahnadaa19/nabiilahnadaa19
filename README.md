@@ -37,6 +37,10 @@ I believe good software quality starts with good testing.
 
 My QA background combined with UI/UX experience helps me identify both functional and usability issues.
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabiilahnadaa19&show_icons=true&theme=dark)
+
 ## 🐞 Bug Hunter Activity
 
 <p align="center">
