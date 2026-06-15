@@ -30,12 +30,6 @@ Detail-oriented Software Quality Assurance Engineer with experience in Manual Te
 - GitHub
 - Figma
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabiilahnadaa19&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabiilahnadaa19&layout=compact)
-
 ## 💡 Fun Fact
 
 I enjoy finding bugs before users do.
